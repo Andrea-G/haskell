@@ -1,0 +1,11 @@
+
+package: CMS-0.1.0.0
+os: windows
+arch: x86_64
+compiler: ghc-7.10.2
+client: cabal-install-1.22.6.0
+dependencies: time-1.5.0.1 text-1.2.1.3 random-1.1 filepath-1.4.0.0
+              directory-1.2.2.0 base-4.8.1.0 array-0.5.1.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
